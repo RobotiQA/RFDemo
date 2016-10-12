@@ -2,3 +2,5 @@ demo_env/*
 log.html
 output.xml
 report.html
+.idea*
+*.pyc
