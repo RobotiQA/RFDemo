@@ -2,7 +2,7 @@
 Library         Selenium2Library
 
 *** Variables ***
-${search_box}   lst-ib
+${search_box}   q
 ${search_btn}   btnG
 
 *** Test Cases ***

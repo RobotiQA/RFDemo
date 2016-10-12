@@ -1,4 +1,5 @@
 demo_env/*
 log.html
 output.xml
+selenium_demo/geckodriver.log
 report.html

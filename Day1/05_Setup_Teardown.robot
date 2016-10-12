@@ -4,7 +4,7 @@ Test Setup      Open Browser      http://www.google.com
 Test Teardown   Close Browser
 
 *** Variables ***
-${search_box}   lst-ib
+${search_box}   q
 ${search_btn}   btnG
 
 *** Test Cases ***

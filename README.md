@@ -14,7 +14,7 @@ Test Repository for our Robot Framework demo.
 git clone {repo}
 ```
 
- - Next create the virtual environement.
+- Next create the virtual environement.
 ```
 $ virtualenv rf_demo_env
 ```
