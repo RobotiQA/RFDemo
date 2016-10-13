@@ -3,20 +3,22 @@
 ## Introduction
 Test Repository for our Robot Framework demo.
 
-## Pre-Requisites
-- [Python 2.7.x](https://www.python.org/downloads) installed on your system
+## Setup
+- [Python 3.5.x](https://www.python.org/downloads) installed on your system
 - *pip* installed on your system
 - *virtualenv* installed on your system
 
 ## Install
 - Download the repo to a project directory.
+
 ```
-git clone {repo}
+git clone https://github.com/RobotiQA/RFDemo.git
 ```
 
 - Next create the virtual environement.
 ```
-$ virtualenv rf_demo_env
+$ cd RFDemo
+$ virtualenv rf_demo_env -p python3
 ```
 
 - Next Activate the virtualenv
