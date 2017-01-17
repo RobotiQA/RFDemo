@@ -2,4 +2,4 @@ language: python
 python:
   - "3.5"
 install: pip install -r requirements.txt
-script: my_script
+script: python my_script.py
