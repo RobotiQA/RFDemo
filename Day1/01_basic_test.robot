@@ -1,6 +1,7 @@
 *** Settings ***
 Library         Selenium2Library    10
 
+
 *** Test Cases ***
 Search for Robot Framework on Google
   Open Browser                       http://www.google.com
